@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{02962754-d7e4-49a8-b560-c0600f8947cb}">
+		<property name="assetPath">
+			<value>sunnyyoum_ArcaneSoundAlike_Devil'sChromosome.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>96.000020833333338</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{93bdface-9a18-4a49-976f-013d8a51566a}</destination>
+		</relationship>
+	</object>
+</objects>
